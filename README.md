@@ -53,3 +53,26 @@ Donde se muestran los productos principales en venta de la página que son los T
 </p>
 
 Y cuando se terminan de ver los productos disponibles, se muestra un icono de "**HOME**" que nos regresa a la página principal.
+
+
+### Productos
+
+Por último se hicieron los Mockups de los productos individuales donde se muestran según sean Telefonos, Tablets o en sus caso las Novedades más recientes y cuando se terminan de ver los productos disponibles según su tipo, se muestra un icono de "**HOME**" que nos regresa a la página principal.
+
+#### Telefonos
+
+<p align="center">
+  <img src="docs/images/Mockups/Telefonos.png" />
+</p>
+
+#### Tablets
+
+<p align="center">
+  <img src="docs/images/Mockups/Tablets.png" />
+</p>
+
+#### Novedades
+
+<p align="center">
+  <img src="docs/images/Mockups/Novedades.png" />
+</p>
