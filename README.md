@@ -16,6 +16,8 @@ El sitio contará con:
 
 ## Wireframing
 
+### Index
+
 La pantalla de inicio:
 
 <p align="center">
@@ -34,4 +36,20 @@ En la siguiente sección de la página principal podemos ver Testimonios de las 
   <img src="docs/images/Mockups/Index3.png" />
 </p>
 
-Y como último una sección de la página principal encontramos un área para poder mandar quejas y/ sugerencias en donde el usuario ingreará su correo electronico, escojera si es una "**queja**" o una "**sugerencia**", rellenar el mensaje dependiendo a su experiencia con la plataforma y por último el botón de enviar.
+Y como último una sección de la página principal encontramos un área para poder mandar quejas y/ sugerencias en donde el usuario ingreará su correo electrónico, escojerá si es una "**queja**" o una "**sugerencia**", rellenar el mensaje dependiendo a su experiencia con la plataforma y por último el botón de enviar.
+
+### Galería
+
+Para la galería empezamos de la siguiente manera:
+
+<p align="center">
+  <img src="docs/images/Mockups/GaleriaGeneral.png" />
+</p>
+
+Donde se muestran los productos principales en venta de la página que son los Telefonos, Tablets y un apartado para las Novedades.
+
+<p align="center">
+  <img src="docs/images/Mockups/GaleriaGenerall2.png" />
+</p>
+
+Y cuando se terminan de ver los productos disponibles, se muestra un icono de "**HOME**" que nos regresa a la página principal.
