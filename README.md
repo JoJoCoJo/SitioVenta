@@ -13,6 +13,7 @@ El sitio contará con:
   * Galería de Productos General: Se mostrarán todo los productos en general con los que cuenta el sitio.
   * Telefonos: Página donde se muestran sólo los Telefonos con los que cuenta el sitio.
   * Tablets: Página donde se muestran sólo las Tablets disponibles en el sitio.
+  * Novedades: Página donde se muestran las noticias/gadgets más recientes.
 
 ## Wireframing
 
