@@ -91,7 +91,10 @@ Por último se hicieron los Mockups de los productos individuales donde se muest
 
   Usando de preferencia los colores:
 
-  <table class="color-table">
+  <p align="center">
+    <img src="docs/images/BaseColors.png" />
+  </p>
+  <table>
   	<tr>
   		<th>Primary color:</th>
   		<td style="background-color: #FF4848;">
