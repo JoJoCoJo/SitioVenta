@@ -99,69 +99,54 @@ Por último se hicieron los Mockups de los productos individuales donde se muest
   		<th>Primary color:</th>
   		<td style="background-color: #FF4848;">
   			<div style="color: white">#FF4848</div>
-  			<div style="color: black">#FF4848</div>
   		</td>
   		<td style="background-color: #FF1313">
   			<div class="white">#FF1313</div>
-  			<div class="black">#FF1313</div>
   		</td>
   		<td style="background-color: #FF0000">
   			<div style="color: white">#FF0000</div>
-  			<div style="color: black">#FF0000</div>
   		</td>
   		<td style="background-color:#E30000 ">
   			<div style="color: white">#E30000</div>
-  			<div style="color: black">#E30000</div>
   		</td>
   		<td style="background-color:#B00000 ">
   			<div style="color: white">#B00000</div>
-  			<div style="color: black">#B00000</div>
   		</td>
   	</tr>
   	<tr>
   		<th>Secondary color (1):</th>
   		<td style="background-color:#FFC548 ">
   			<div style="color: white">#FFC548</div>
-  			<div style="color: black">#FFC548</div>
   		</td>
   		<td style="background-color:#FFB413 ">
   			<div style="color: white">#FFB413</div>
-  			<div style="color: black">#FFB413</div>
   		</td>
   		<td style="background-color:#FFAE00 ">
   			<div style="color: white">#FFAE00</div>
-  			<div style="color: black">#FFAE00</div>
   		</td>
   		<td style="background-color:#E39B00 ">
   			<div style="color: white">#E39B00</div>
-  			<div style="color: black">#E39B00</div>
   		</td>
   		<td style="background-color:#B07800 ">
   			<div style="color: white">#B07800</div>
-  			<div style="color: black">#B07800</div>
   		</td>
   	</tr>
   	<tr>
   		<th>Secondary color (2):</th>
   		<td style="background-color:#9D46D7 ">
   			<div style="color: white">#9D46D7</div>
-  			<div style="color: black">#9D46D7</div>
   		</td>
   		<td style="background-color:#8A1CD5 ">
   			<div style="color: white">#8A1CD5</div>
-  			<div style="color: black">#8A1CD5</div>
   		</td>
   		<td style="background-color:#8106D5 ">
   			<div style="color: white">#8106D5</div>
-  			<div style="color: black">#8106D5</div>
   		</td>
   		<td style="background-color:#5C0598 ">
   			<div style="color: white">#5C0598</div>
-  			<div style="color: black">#5C0598</div>
   		</td>
   		<td style="background-color:#480376 ">
   			<div style="color: white">#480376</div>
-  			<div style="color: black">#480376</div>
   		</td>
   	</tr>
   </table>
