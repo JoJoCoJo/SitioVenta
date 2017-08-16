@@ -27,8 +27,8 @@
 
 body {
   background-color: #FFC548;
+  width: 100%;
 }
-
 
 /* Own CSS*/
 p {
@@ -38,6 +38,7 @@ p {
 /* Link Styles */
 .boton {
   font-family: 'Droid Sans', sans-serif;
+  margin-left: auto;
 }
 .boton:link, .boton:visited{
     color: #B00000;
@@ -63,8 +64,48 @@ h1 {
 }
 
 /* Subtitles */
-h2{
+h2 {
   font-family: 'Tangerine', serif;
   text-shadow: 3px 3px 3px #aaa;
   text-align: left;
+}
+
+.userComments {
+  width: 65%;
+  height: auto;
+  background-color: #9D46D7;
+}
+.userPhoto {
+  height: 200px;
+  width: 200px;
+}
+.left {
+	float: left;
+}
+.right {
+  background-color: #9D46D7;
+}
+
+@media screen and (min-device-width: 360px)
+              and (max-device-height: 639px) {
+  .videoYT {
+    height: 240px;
+    width: 426px;
+  }
+}
+
+@media screen and (min-device-width: 640px)
+              and (max-device-height: 853px) {
+  .videoYT {
+      height: 480px;
+      width: 854px;
+  }
+}
+
+@media screen and (min-device-width: 854px)
+              and (max-device-height: 1280px) {
+  .videoYT {
+    height: 720px;
+    width: 1280px;
+  }
 }
