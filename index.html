@@ -24,16 +24,39 @@
       <!-- <iframe width="100%" height="480" src="https://www.youtube.com/embed/QJGnDaR9_6c?autoplay=1&showinfo=0&rel=0&controls=0&vq=hd720" frameborder="0" allowfullscreen></iframe> -->
     </div>
     <h2> Testimonios de nuestros usuarios </h2>
-    <p style="text-align: center">
       <div class="userComments">
-        <table>
-          <tr>
-            <td class="left"><img class="userPhoto" src="https://www.atomix.com.au/media/2015/06/atomix_user31.png" alt="" /></td>
-            <td class="right"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></td>
-          </tr>
-        </table>
+          <p style="align: center">
+          <table >
+            <tr>
+              <td class="left"><img class="userPhoto" src="https://www.atomix.com.au/media/2015/06/atomix_user31.png" /></td>
+              <td class="right"><p><i><b>"</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<b>"</b></i></p></td>
+              <td class="left"><img class="userPhoto" src="https://www.atomix.com.au/media/2015/06/atomix_user31.png" /></td>
+              <td class="right"><p><i><b>"</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<b>"</b></i></p></td>
+            </tr>
+            <tr>
+              <td class="left"><img class="userPhoto" src="https://www.atomix.com.au/media/2015/06/atomix_user31.png" /></td>
+              <td class="right"><p><i><b>"</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<b>"</b></i></p></td>
+              <td class="left"><img class="userPhoto" src="https://www.atomix.com.au/media/2015/06/atomix_user31.png" /></td>
+              <td class="right"><p><i><b>"</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<b>"</b></i></p></td>
+            </tr>
+          </table>
+        </p>
       </div>
-    </p>
-
+      <h2> Quejas o sugerencias </h2>
+      <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+       <fieldset>
+         <legend>Correo:</legend>
+         Correo: <input type="text" name="Correo" id="Correo" placeholder="e.j. ejemplo@correo.com" /><br/>
+         Asunto:
+         <select name="Asunto" id="Asunto" >
+           <option disabled selected>Elija una opción...</option>
+           <option value="Queja">Queja</option>
+           <option value="Sugerencia">Sugerencia</option>
+         </select><br>
+         Queja / Sugerencia: <textarea name="texto" id="texto" rows="8" cols="80"></textarea>
+         <input type="submit" value="Enviar">
+         <input type="reset" value="Borrar">
+       </fieldset>
+      </form>
   </body>
 </html>
