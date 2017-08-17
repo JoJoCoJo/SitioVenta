@@ -92,8 +92,8 @@ form {
   padding-left: 15%;
   padding-right: 15%;
 }
-input, select {
-  width: 90%;
+input, select, textarea {
+  width: 70%;
 }
 input[type="submit"], input[type="reset"] {
   width: 45%;

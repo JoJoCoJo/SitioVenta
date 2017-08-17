@@ -47,6 +47,15 @@ h1 {
   height: auto;
 }
 
+/* Subtitles */
+h2 {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 3px 3px 3px #aaa;
+  text-align: center;
+}
+
+
 footer {
   clear: both;
   position: relative;
@@ -57,6 +66,9 @@ footer {
 .userPhoto {
   height: 150px;
   width: 150px;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 table {
   padding-left: 10%;
