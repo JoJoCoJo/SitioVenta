@@ -71,12 +71,7 @@ h2 {
   text-align: left;
 }
 
-.userComments {
-  width: 100%;
-  height: auto;
-  /*background-color: #9D46D7;*/
-  margin: 0px auto;
-}
+
 .userPhoto {
   height: 150px;
   width: 150px;
@@ -88,6 +83,15 @@ h2 {
   text-align: justify;
 }
 
+table {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+form {
+  padding-left: 15%;
+  padding-right: 15%;
+}
 input, select {
   width: 90%;
 }
