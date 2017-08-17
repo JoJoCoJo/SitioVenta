@@ -53,7 +53,7 @@ p {
 /* Titles */
 h1 {
   font-family: 'Tangerine', serif;
-  font-size: 48px;
+  font-size: 68px;
   text-shadow: 3px 3px 3px #aaa;
   text-align: center;
 }
@@ -66,26 +66,35 @@ h1 {
 /* Subtitles */
 h2 {
   font-family: 'Tangerine', serif;
+  font-size: 48px;
   text-shadow: 3px 3px 3px #aaa;
   text-align: left;
 }
 
 .userComments {
-  width: 65%;
+  width: 100%;
   height: auto;
-  background-color: #9D46D7;
+  /*background-color: #9D46D7;*/
+  margin: 0px auto;
 }
 .userPhoto {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
 .left {
 	float: left;
 }
 .right {
-  background-color: #9D46D7;
+  text-align: justify;
 }
 
+input, select {
+  width: 90%;
+}
+input[type="submit"], input[type="reset"] {
+  width: 45%;
+  display: inline-block;
+}
 @media screen and (min-device-width: 360px)
               and (max-device-height: 639px) {
   .videoYT {
