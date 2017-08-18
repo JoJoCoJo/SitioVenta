@@ -70,7 +70,29 @@ footer {
   padding-left: 30%;
   padding-right: 30%;
 }
-table {
-  padding-left: 10%;
-  padding-right: 10%;
+
+.fila {
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: justify;
+          align-items: justify;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.izquierda {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+.derecha {
+  position: relative;
+  float: right;
+  width: 100%;
+}
+.centro{
+  position: relative;
+  width: 100%;
 }
