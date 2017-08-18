@@ -55,7 +55,6 @@ h2 {
   text-align: center;
 }
 
-
 footer {
   clear: both;
   position: relative;
@@ -64,7 +63,7 @@ footer {
   background-color: #9D46D7;
 }
 .userPhoto {
-  height: 150px;
+  height: 35%;
   width: 150px;
   text-align: center;
   padding-left: 30%;
