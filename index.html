@@ -41,19 +41,21 @@
       </div>
       <h2> Quejas o sugerencias </h2>
       <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+      <div class="fila">
        <fieldset>
-         <legend>Correo:</legend>
-         Su Correo: <input type="text" name="Correo" id="Correo" placeholder="e.j. ejemplo@correo.com" /><br/>
-         Asunto:
-         <select name="Asunto" id="Asunto" >
-           <option disabled selected>Elija una opción...</option>
-           <option value="Queja">Queja</option>
-           <option value="Sugerencia">Sugerencia</option>
-         </select><br>
-         Queja / Sugerencia: <textarea name="texto" id="texto" rows="8" cols="80"></textarea><br/>
-         <input type="submit" value="Enviar">
-         <input type="reset" value="Borrar">
+         <legend>Mandar una queja o sugerencia:</legend>
+           Su Correo: <input type="text" name="Correo" id="Correo" placeholder="e.j. ejemplo@correo.com" /><br/>
+           Asunto:
+           <select name="Asunto" id="Asunto" >
+             <option disabled selected>Elija una opción...</option>
+             <option value="Queja">Queja</option>
+             <option value="Sugerencia">Sugerencia</option>
+           </select><br>
+           Queja / Sugerencia: <textarea name="texto" id="texto" rows="8" cols="80"></textarea><br/>
+           <input type="submit" value="Enviar">
+           <input type="reset" value="Borrar">
        </fieldset>
       </form>
+    </div>
   </body>
 </html>

@@ -50,6 +50,15 @@ p {
     color: #8106D5;
 }
 
+.fila {
+  padding-left: 5%;
+  padding-right: 5%;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+
 /* Titles */
 h1 {
   font-family: 'Tangerine', serif;
@@ -92,12 +101,17 @@ form {
   padding-left: 15%;
   padding-right: 15%;
 }
-input, select, textarea {
-  width: 70%;
+
+select, textarea {
+  width: 100%;
+}
+input {
+  width: 98.5%;
 }
 input[type="submit"], input[type="reset"] {
   width: 45%;
   display: inline-block;
+  position: relative;
 }
 @media screen and (min-device-width: 360px)
               and (max-device-height: 639px) {
