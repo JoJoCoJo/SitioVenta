@@ -28,6 +28,8 @@
 body {
   background-color: #FFC548;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 /* Own CSS*/
